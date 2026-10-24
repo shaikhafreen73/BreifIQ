@@ -1,0 +1,30 @@
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables & local secrets
+.env
+.env.local
+
+# Editor directories and configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQLite journal/temporary files
+*.db-journal
+*.sqlite-journal
